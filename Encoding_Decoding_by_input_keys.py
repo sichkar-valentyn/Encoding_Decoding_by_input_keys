@@ -1,3 +1,14 @@
+# File: Encoding_Decoding_by_input_keys.py
+# Description: Encoding and Decoding messages by input keys
+# Environment: PyCharm and Anaconda environment
+#
+# MIT License
+# Copyright (c) 2018 Valentyn N Sichkar
+# github.com/sichkar-valentyn
+#
+# Reference to:
+# [1] Valentyn N Sichkar. Encoding and Decoding messages by input keys // GitHub platform [Electronic resource]. URL: https://github.com/sichkar-valentyn/Encoding_Decoding_by_input_keys (date of access: XX.XX.XXXX)
+
 # Implementing the task
 # Encoding - decoding by input keys
 key1 = input()  # Key to encode
